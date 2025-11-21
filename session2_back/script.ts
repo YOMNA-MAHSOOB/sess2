@@ -1,68 +1,4 @@
 
-// // interface User {
-// //     id: number;
-// //     name: string;
-// //     address: Address;
-// //     roles: Role[];
-// // }
-
-
-// // interface Address {
-// //     city: string;
-// //     street: string;
-// // }
-// // type Role = "admin" | "member" | "guest";
-// // const jjj:User={
-// //     id:1,
-// //     name:"yomna",
-// //     address:{
-// //         city:"cairo",
-// //         street:"3455"
-// //     },
-// //     roles: ["member", "admin"] 
-    
-// // }
-
-// // console.log(jjj);
-
-
-// function sayHello() :string{
-//     return "hello "+ Name("yomna")
-// }
-
-// function Name(n:string) {
-//     return n
-// }
-
-// console.log(sayHello());
-
-
-
-
-// interface Person {
-//     name: string;
-//     age: number;
-// }
-// interface Employee {
-//     name: string;
-//     age: number;
-//     employeeId?: number;
-// }
-// const emp:Employee ={
-//     name:"yomna",
-//     age:20,
-//     employeeId:1
-// }
-// const per:Person=emp;
-
-
-// const p:Person ={
-//     name:"yomna",
-//     age:20,
-// }
-
-// const e:Employee=p
-
 
 // Welcome to TypeScript 💙
 
@@ -153,7 +89,7 @@ console.log(user);
 interface Employee {
  id: number;
  name: string;
- email: string;
+ email?: string;
 }
 const e : Employee = {
  id: 1,
