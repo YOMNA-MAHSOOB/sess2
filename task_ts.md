@@ -8,7 +8,7 @@ Build a **simplified Library System** to practice basic TypeScript concepts: var
 ## 📝 Task Requirements
 
 ### Part 1: Variables & Basic Types
-1. Declare basic variables with types:
+1. Declare basic variables with types then print its values and dataType:
 ```typescript
  totalBooks (number) 
  libraryName(string) 
@@ -35,7 +35,7 @@ Build a **simplified Library System** to practice basic TypeScript concepts: var
 
 ```
 
-4. Create sample book and magazine objects and update totalBooks 
+4. Create sample book and magazine objects and update totalBooks then print them
 e.g. increment it's value by 2:
 
 ---
