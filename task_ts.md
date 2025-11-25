@@ -73,11 +73,6 @@ Make all properties of the book readonly, then try to change the title. What hap
 
 ### Part 4: Optional Extra
 - Use `if` and loops to find a book by id:
-```typescript
-
----
-
-
 
 ## ⏰ Estimated Time
 **1-2 hours** for this simplified implementation
