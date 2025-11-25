@@ -48,23 +48,23 @@ e.g. increment it's value by 2:
 ---
 
 ### Part 3: Utility Types
-Use TypeScript Utility Types:
-1.What is Utility Types?
 
-2.You have an existing book in the library but want to update only some of its properties (e.g., pages or status).
+#### 1.What is Utility Types?
 
-
-3.Sometimes you only need specific information about the book (e.g., title and author) to display in the library.
+#### 2.You have an existing book in the library but want to update only some of its properties (e.g., pages or status).
 
 
-4. Sometimes you want to share book information without revealing certain properties like pages or publish year.
+#### 3.Sometimes you only need specific information about the book (e.g., title and author) to display in the library.
 
 
-5. You have an important book, and you don’t want its data to change after adding it to the library.
-Practical Question:
-Make all properties of the book readonly, then try to change the title. What happens?
+#### 4. Sometimes you want to share book information without revealing certain properties like pages or publish year.
 
-6. You have a partial book object (some fields are missing), and you want to ensure all properties exist before adding it to the library.
+
+#### 5. You have an important book, and you don’t want its data to change after adding it to the library.
+##### Practical Question:
+##### Make all properties of the book readonly, then try to change the title. What happens?
+
+#### 6. You have a partial book object (some fields are missing), and you want to ensure all properties exist before adding it to the library.
 ---
 
 ### Part 4: Optional Extra
