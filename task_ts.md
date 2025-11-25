@@ -45,9 +45,6 @@ e.g. increment it's value by 2:
 
 
 2. Calculate total pages of all books using a `for` loop:
-```typescript
-
-
 ---
 
 ### Part 3: Utility Types
