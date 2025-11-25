@@ -77,13 +77,7 @@ Make all properties of the book readonly, then try to change the title. What hap
 
 ---
 
-## 💡 Hints
-- Focus on **variables**, **interfaces**, **loops**, and **conditions**
-- Use **utility types** for practice
-- No need for classes, filter, map, reduce
-- Test your code in TypeScript
 
----
 
 ## ⏰ Estimated Time
 **1-2 hours** for this simplified implementation
